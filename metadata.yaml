@@ -1,0 +1,27 @@
+_repo: Littlebourne-Lock_25959
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25959-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harrison, F. Bayford
+    gutenberg_agent_id: '31693'
+    url: http://www.gutenberg.org/2009/agents/31693
+description: ''
+gutenberg_issued: '2008-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcc 'PZ'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+title: Littlebourne Lock
+url: http://www.gutenberg.org/ebooks/25959
